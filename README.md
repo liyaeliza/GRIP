@@ -1,2 +1,2 @@
 # GRIP
-Predicting student scores using ML
+ML tasks for graduate internship at SPARKS foundation
